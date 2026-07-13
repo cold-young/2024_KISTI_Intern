@@ -9,7 +9,8 @@
 [![NVIDIA Modulus](https://img.shields.io/badge/NVIDIA-Modulus-nvidia.svg?logo=nvidia)](https://developer.nvidia.com/modulus) 
 <br>
 **Contributor**: [Chanyoung Ahn](https://github.com/cold-young) 
-
+- [My Internship Experience (Slide)](https://drive.google.com/file/d/1roA11dfOmGyg4Wg2436gbcqKr811TBhs/view?usp=sharing)
+  
 ## Prerequisites 
 
 ### Python environment (miniconda)
